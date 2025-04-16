@@ -1,1 +1,4 @@
-
+fastapi
+instaloader
+uvicorn
+python-multipart
